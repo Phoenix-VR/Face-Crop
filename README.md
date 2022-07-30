@@ -1,5 +1,5 @@
 # Face-Crop
-This script is used to extract a cropped faces from images/video.
+This script is used to extract cropped faces from images/video.
 
 ## How to use?
 1. Clone this repository.
